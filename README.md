@@ -54,25 +54,25 @@ Leadership, communication, collaboration, time management, mentoring
 
 
 ## Certifications
-<a href="https://www.credly.com/earner/earned/badge/81cdc08b-a16a-49a1-a340-1c6d375a28aa">
+<a href="https://www.credly.com/badges/81cdc08b-a16a-49a1-a340-1c6d375a28aa/public_url">
   <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="150" height="150">
   
-  <a href="https://www.credly.com/earner/earned/badge/5845596e-1aaa-49c0-911d-06bdcdbb50bf">
+  <a href="https://www.credly.com/badges/5845596e-1aaa-49c0-911d-06bdcdbb50bf/public_url">
   <img src="https://images.credly.com/size/340x340/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" alt="CompTIA PenTest+" width="150" height="150">
     
-  <a href="https://www.credly.com/earner/earned/badge/e0b2783f-73df-401d-a7cc-3df9fab4300f">
+  <a href="https://www.credly.com/badges/e0b2783f-73df-401d-a7cc-3df9fab4300f/public_url">
   <img src="https://images.credly.com/size/340x340/images/3eaf80a9-a69a-480a-a98b-e9a91796d6cb/CompTIA_CNVP.png" alt="CompTIA CNVP” width="150" height="150">
     
-  <a href="https://www.credly.com/earner/earned/share/ed893d38-5b17-4310-b8a7-64ce39538f6e">
+  <a href="https://www.credly.com/badges/ed893d38-5b17-4310-b8a7-64ce39538f6e/public_url">
   <img src="https://images.credly.com/size/340x340/images/16b097aa-10b3-4c90-9f96-f7b43ffa6cb4/blob" alt="CompTIA CompTIA CloudNetX" width="150" height="150">
     
-<a href="https://www.credly.com/earner/earned/share/508efcde-0d61-43f0-96c8-351f933c4657">
+<a href="https://www.credly.com/badges/508efcde-0d61-43f0-96c8-351f933c4657/public_url">
   <img src="https://images.credly.com/size/340x340/images/1aca6338-ef5d-42c8-b2ac-ddf56563d1a5/CV_PNG_L200.png" alt="Understanding Cisco Network Security" width="150" height="150">
   
-<a href="https://www.credly.com/earner/earned/badge/eda420a7-3087-49fa-acf1-46454b5f9dbe">
+<a href="https://www.credly.com/badges/eda420a7-3087-49fa-acf1-46454b5f9dbe/public_url">
   <img src="https://images.credly.com/size/340x340/images/1442feda-7455-4bcb-a114-8803c9dee675/CV_PNG_L200.png" alt="Understanding Cisco Network Devices" width="150" height="150">
   
-<a href="https://www.credly.com/earner/earned/badge/25a33e66-2b03-4705-97df-a18fba36454e">
+<a href="https://www.credly.com/badges/25a33e66-2b03-4705-97df-a18fba36454e/public_url">
   <img src="https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="CCNA" width="150" height="150">
   
 <a href="https://www.credly.com/badges/92594a79-b433-48b6-b1ec-d515d88b589a/public_url">
@@ -82,13 +82,13 @@ Leadership, communication, collaboration, time management, mentoring
 ## Certifications expired but knowledge not
 
 
-<a href="https://www.credly.com/earner/earned/badge/e77bc989-360d-44e5-b1df-a0142e0cad09">
+<a href="https://www.credly.com/badges/e77bc989-360d-44e5-b1df-a0142e0cad09/public_url">
   <img src="https://images.credly.com/size/340x340/images/23ae0d10-85d7-415a-a6c0-0e2919040628/cisco_ccna_security.png" alt="CCNA “Security width="150" height="150">
   
-<a href="https://www.credly.com/earner/earned/badge/0f301e45-e698-4d36-a321-7f6ac57ad9aa">
+<a href="https://www.credly.com/badges/0f301e45-e698-4d36-a321-7f6ac57ad9aa/public_url">
   <img src="https://images.credly.com/size/340x340/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png" alt="CCNP Routing&Switching+" width="150" height="150">
 
-  <a href="https://www.credly.com/earner/earned/badge/171e9613-b6cd-48da-8c9f-012b73008408">
+  <a href="https://www.credly.com/badges/171e9613-b6cd-48da-8c9f-012b73008408/public_url">
   <img src="https://images.credly.com/size/340x340/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" alt="CCNP “Enterprise width="150" height="150">
 
 
