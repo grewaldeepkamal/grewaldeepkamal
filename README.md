@@ -16,44 +16,22 @@ To leverage my expertise in cybersecurity, network infrastructure, and cloud tec
 
 ## Core Skills & Expertise
 
-🛡️ **Cybersecurity & Governance**
+🧩 **Cybersecurity & Governance**:  ⬢ Risk assessment ⬢ Compliance auditing ⬢ Incident response ⬢ Implementation of NIST Cybersecurity Framework (CSF) and ISO/IEC 27001/27002 ⬢ Policy development ⬢ Security awareness programs ⬢ Regulatory alignment
 
-Risk assessment, compliance auditing, and incident response
-Implementation of NIST Cybersecurity Framework (CSF) and ISO/IEC 27001/27002
-Policy development, security awareness programs, and regulatory alignment
+🧩 **Penetration Testing & Threat Analysis**:  ⬢ Vulnerability assessment ⬢ Exploitation, ⬢ Technical reporting ⬢ Network reconnaissance ⬢ Scanning ⬢ Privilege escalation techniques ⬢ Proficient with OWASP Top 10 ⬢ Metasploit ⬢ Burp Suite ⬢ Wireshark
 
-⚔️ **Penetration Testing & Threat Analysis**
+🧩 **Networking & Infrastructure**:  ⬢ Expertise in Cisco technologies (CCNA, CCAI) ⬢ VLANs ⬢ ACLs ⬢ VPNs ⬢  Firewalls ⬢ Skilled in network segmentation ⬢ Routing ⬢ Switching ⬢ Secure configuration
 
-Vulnerability assessment, exploitation, and technical reporting
-Network reconnaissance, scanning, and privilege escalation techniques
-Proficient with OWASP Top 10, Metasploit, Burp Suite, and Wireshark
+🧩 **Cloud Security**:  ⬢ Hands-on with AWS and Microsoft Azure (IAM, VPC, NSG, policies) ⬢ Strong understanding of cloud governance ⬢ Identity, and access management
 
-🌐 **Networking & Infrastructure**
+🧩 **Endpoint & Server Administration**:  ⬢ Administration of Windows Server ⬢ Active Directory ⬢ Intune ⬢ Office 365 ⬢ System hardening Patch management ⬢ Access control implementation
 
-Expertise in Cisco technologies (CCNA, CCAI), VLANs, ACLs, VPNs, and firewalls
-Skilled in network segmentation, routing, switching, and secure configurations
+🧩 **Automation & Scripting**:  ⬢ PowerShell and Python for task automation, auditing, and log analysis
 
-☁️ **Cloud Security**
-
-Hands-on with AWS and Microsoft Azure (IAM, VPC, NSG, policies)
-Strong understanding of cloud governance, identity, and access management
-
-🖥️ **Endpoint & Server Administration**
-
-Administration of Windows Server, Active Directory, Intune, and Office 365
-System hardening, patch management, and access control implementation
-
-⚙️ **Automation & Scripting**
-
-PowerShell and Python for task automation, auditing, and log analysis
-
-🤝 **Soft Skills**
-
-Leadership, communication, collaboration, mentoring, and time management
+🧩 **Soft Skills**:  ⬢ Leadership ⬢ Communication ⬢ Collaboration ⬢ Mentoring ⬢ Time management
 
 
-
-### 🧰 **Technical Tools**
+###  **Technical Tools** 
 
 | Category | Tools |
 |-----------|--------|
@@ -67,6 +45,7 @@ Leadership, communication, collaboration, mentoring, and time management
 
 
 ## Certifications
+
 <a href="https://www.credly.com/badges/81cdc08b-a16a-49a1-a340-1c6d375a28aa/public_url">
   <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="150" height="150">
   
@@ -92,7 +71,7 @@ Leadership, communication, collaboration, mentoring, and time management
   <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt=“IS”C2-Certified in Cybersecurity width="150" height="150">
   
 
-## Certifications expired but knowledge not
+## Certifications laspsed, Skills Maintained
 
 
 <a href="https://www.credly.com/badges/e77bc989-360d-44e5-b1df-a0142e0cad09/public_url">
