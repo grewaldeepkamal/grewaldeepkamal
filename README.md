@@ -54,10 +54,13 @@ Leadership, communication, collaboration, time management, mentoring
 
 
 ## Certifications
-[![CompTIA CNVP Certified](https://img.shields.io/badge/CompTIA-CNVP-red?logo=comptia)](https://www.credly.com/badges/e0b2783f-73df-401d-a7cc-3df9fab4300f/public_url)
-[![CompTIA PenTest+ Certified](https://img.shields.io/badge/CompTIA-PenTest%2B-red?logo=comptia)](https://www.credly.com/badges/5845596e-1aaa-49c0-911d-06bdcdbb50bf/public_url)
-[![CompTIA CloudNetX Certified](https://img.shields.io/badge/CompTIA-CloudNetX-blue?logo=comptia)](https://www.credly.com/badges/ed893d38-5b17-4310-b8a7-64ce39538f6e/public_url)
-[![ISC2 Certified in Cybersecurity (CC)](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-00693c?logo=isc2&logoColor=white)](https://www.credly.com/badges/92594a79-b433-48b6-b1ec-d515d88b589a/public_url)
+<a href="https://www.credly.com/earner/earned/badge/81cdc08b-a16a-49a1-a340-1c6d375a28aa">
+  <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="150" height="150">
+  <a href="https://www.credly.com/earner/earned/badge/5845596e-1aaa-49c0-911d-06bdcdbb50bf">
+  <img src="https://images.credly.com/size/340x340/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" alt="CompTIA PenTest+" width="150" height="150">
+  <a href="https://www.credly.com/earner/earned/badge/e0b2783f-73df-401d-a7cc-3df9fab4300f">
+  <img src="https://images.credly.com/size/340x340/images/3eaf80a9-a69a-480a-a98b-e9a91796d6cb/CompTIA_CNVP.png" alt="CompTIA CNVP” width="150" height="150">
+  
 
 
 ## Expired Certifications
