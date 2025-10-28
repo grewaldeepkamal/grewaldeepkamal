@@ -1,55 +1,68 @@
 # Hello, I'm Kamaldeep Grewal.
 <a href="https://www.linkedin.com/in/kdgrewal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a Cybersecurity and IT Infrastructure Specialist with over 9 years of hands-on experience in enterprise IT, governance, and network security. My work bridges technical implementation and academic instruction, helping students and professionals understand secure system design, compliance frameworks, and network defense.
-I’m passionate about simplifying complex security concepts and building resilient systems aligned with NIST and ISO 27001 standards.
+I’m a Cybersecurity and IT Infrastructure Specialist with over 11 years of practical experience in enterprise IT, governance, and network security. I combine technical expertise and instructional leadership to help students and professionals develop a clear understanding of secure system design, compliance frameworks, and network defense strategies.
+My passion lies in making complex security concepts easy to grasp and building resilient, standards-driven systems aligned with NIST and ISO 27001 best practices.
+
+⭐ **11+ years** in IT infrastructure, cybersecurity, and teaching roles  
+⭐ **Instructor for Security+, CCNA, Cloud, and Windows Server** at Canadian colleges  
+⭐ Strong background in **network security, compliance, virtualization and cloud technologies**  
+⭐ Hands-on with **firewalls, VPNs, Azure/AWS, PowerShell, SIEM, and vulnerability testing**  
+⭐ Skilled communicator with proven **leadership, mentorship, and collaboration** abilities  
 
 ## Objective
 
 To leverage my expertise in cybersecurity, network infrastructure, and cloud technologies to design, implement, and teach secure, scalable systems that align with industry best practices and compliance frameworks. I aim to continue growing as a cybersecurity educator and technical specialist, contributing to projects that strengthen digital resilience while mentoring the next generation of IT professionals.
 
-## Skills
+## Core Skills & Expertise
 
-**Cybersecurity & Governance**
+🛡️ **Cybersecurity & Governance**
+
 Risk assessment, compliance auditing, and incident response
-NIST Cybersecurity Framework (CSF), ISO/IEC 27001/27002
-Policy development, security awareness, and regulatory alignment
+Implementation of NIST Cybersecurity Framework (CSF) and ISO/IEC 27001/27002
+Policy development, security awareness programs, and regulatory alignment
 
-**Penetration Testing & Threat Analysis**
-Vulnerability assessment, exploitation, and reporting
-Network reconnaissance, scanning, and privilege escalation
-Understanding of OWASP Top 10, Metasploit, Burp Suite, and Wireshark
+⚔️ **Penetration Testing & Threat Analysis**
 
-**Networking & Infrastructure**
-Cisco technologies (CCNA, CCAI), VLANs, ACLs, VPNs, firewalls
-Network segmentation, routing and switching, secure configurations
+Vulnerability assessment, exploitation, and technical reporting
+Network reconnaissance, scanning, and privilege escalation techniques
+Proficient with OWASP Top 10, Metasploit, Burp Suite, and Wireshark
 
-**Cloud Security**
-AWS and Microsoft Azure fundamentals (IAM, VPC, NSG, policies)
-Cloud governance and identity management
+🌐 **Networking & Infrastructure**
 
-**Endpoint & Server Administration**
-Windows Server, Active Directory, Intune, Office 365
-Patch management, access control, and system hardening
+Expertise in Cisco technologies (CCNA, CCAI), VLANs, ACLs, VPNs, and firewalls
+Skilled in network segmentation, routing, switching, and secure configurations
 
-**Automation & Scripting**
-PowerShell and Python for automation, auditing, and log analysis
+☁️ **Cloud Security**
 
-**Soft Skills**
-Leadership, communication, collaboration, time management, mentoring
+Hands-on with AWS and Microsoft Azure (IAM, VPC, NSG, policies)
+Strong understanding of cloud governance, identity, and access management
 
-## Tools
+🖥️ **Endpoint & Server Administration**
+
+Administration of Windows Server, Active Directory, Intune, and Office 365
+System hardening, patch management, and access control implementation
+
+⚙️ **Automation & Scripting**
+
+PowerShell and Python for task automation, auditing, and log analysis
+
+🤝 **Soft Skills**
+
+Leadership, communication, collaboration, mentoring, and time management
 
 
-**Security & Testing:** Metasploit, Burp Suite, Nmap, Nessus, OpenVAS, Wireshark, Hydra, John the Ripper
 
-**Monitoring & Management:** SolarWinds, Logi Monitor, ServiceNow, Salesforce
+### 🧰 **Technical Tools**
 
-**Network & Cloud:** Cisco Packet Tracer, AWS Console, Azure Portal, GNS3
-
-**Scripting & Automation:** PowerShell, Python
-
-**Productivity & Documentation:** Microsoft Word, Excel, PowerPoint (Advanced), Visio
+| Category | Tools |
+|-----------|--------|
+| **🔒 Security & Testing** | Metasploit, Burp Suite, Nmap, Nessus, OpenVAS, Wireshark, Hydra, John the Ripper |
+| **📊 Monitoring & Management** | SolarWinds, Logi Monitor, ServiceNow, Salesforce |
+| **🌐 Network & Cloud Platforms** | Cisco Packet Tracer, AWS Management Console, Microsoft Azure Portal, GNS3 |
+| **⚙️ Scripting & Automation** | PowerShell, Python, Bash |
+| **🗂️ Productivity & Documentation** | Microsoft Word, Excel, PowerPoint, Visio, Canva |
+| **💻 Virtualization** | VMware, VirtualBox, Proxmox |
 
 
 
