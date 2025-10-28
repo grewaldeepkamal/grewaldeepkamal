@@ -75,7 +75,7 @@ Leadership, communication, collaboration, time management, mentoring
 <a href="https://www.credly.com/earner/earned/badge/25a33e66-2b03-4705-97df-a18fba36454e">
   <img src="https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="CCNA" width="150" height="150">
   
-<a href="https://www.credly.com/earner/earned/badge/92594a79-b433-48b6-b1ec-d515d88b589a">
+<a href="https://www.credly.com/badges/92594a79-b433-48b6-b1ec-d515d88b589a/public_url">
   <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt=“IS”C2-Certified in Cybersecurity width="150" height="150">
   
 
